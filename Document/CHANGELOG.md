@@ -211,3 +211,5 @@ We thank you all contributors for the hard work and continuously improving the d
 - Added code quality sections.
 
 ## v1.0 - 15 Jun 2018 (First release)
+
+SP flash tool is a helpful application for flashing Stock ROMs, Custom recoveries and firmware updates in some extreme cases. Link : https://uptodriver.com/smart-phone-flash-tool/
